@@ -1,0 +1,22 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    height: 20px;
+}
+
+button {
+    height: 30px;
+    width: 40px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+svg {
+    margin: 0;
+    height: 36px;
+    width: 50px;
+}
